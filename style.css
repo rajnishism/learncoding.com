@@ -398,5 +398,9 @@ display: fl
     justify-content: space-around;
     text-align: center;
   }
+  .contactbox{
+    flex-direction: column;
+    justify-content: center;
+  }
 
 }
