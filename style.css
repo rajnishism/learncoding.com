@@ -380,6 +380,10 @@ display: fl
   text-decoration: none;
   color: black;
 }
+.footer ul {
+    margin: 0; /* To remove default bottom margin */ 
+    padding: 0; /* To remove default left padding */
+}
 @media (max-width:1105px) {
   .navigation{
     display: none;
@@ -393,7 +397,7 @@ display: fl
   }
   .landingPage{
     flex-direction: column;
-    height: 90vh;
+    
     align-items: center;
     justify-content: space-around;
     text-align: center;
@@ -402,5 +406,16 @@ display: fl
     flex-direction: column;
     justify-content: center;
   }
+  .main-img{
+  width:90vw;
+  }
+  .contactImg{
+    width:90vw;
+  }
+  .footer{
+  flex-direction:column;
+  }
+  
+  
 
 }
