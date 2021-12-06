@@ -235,6 +235,7 @@ font-weight: 500;
 .CourseList{
   margin: 100px;
 }
+
 .btn{
   border: 1px #96BB7C solid;
   border-radius: 100px;
@@ -417,14 +418,24 @@ display: fl
   flex-direction:column;
   }
   .feature_container{
-    flex-direction:column;
+    flex-direction:column-reverse;
   }
   .bigHeading{
   font-size:42px;
+  line-height: 40px;
+  margin-top:70;
   }
   .CourseList{
     margin: 15px;
   }
-
+  .feature_section{
+    padding:  30px 15px;
+  }
+  .contactHead{
+    margin-left: 15px;
+  }
+  .contactbox{
+    padding: 20px 15px 80px 15px;
+  }
 
 }
