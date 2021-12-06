@@ -407,10 +407,10 @@ display: fl
     justify-content: center;
   }
   .main-img{
-  width:90vw;
+  width:65vw;
   }
   .contactImg{
-    width:90vw;
+    width:65vw;
   }
   .footer{
   flex-direction:column;
