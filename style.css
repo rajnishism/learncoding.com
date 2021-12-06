@@ -381,7 +381,7 @@ display: fl
   color: black;
 }
 .footer ul {
-    margin: 0; /* To remove default bottom margin */ 
+    margin: 0; /* To remove default bottom margin */
     padding: 0; /* To remove default left padding */
 }
 @media (max-width:1105px) {
@@ -397,7 +397,7 @@ display: fl
   }
   .landingPage{
     flex-direction: column;
-    
+    padding: 0 15px;
     align-items: center;
     justify-content: space-around;
     text-align: center;
@@ -405,6 +405,7 @@ display: fl
   .contactbox{
     flex-direction: column;
     justify-content: center;
+    padding: 20px 15px;
   }
   .mainImg{
   width:70vw;
@@ -421,7 +422,9 @@ display: fl
   .bigHeading{
   font-size:42px;
   }
-  
-  
+  .CourseList{
+    margin: 15px;
+  }
+
 
 }
