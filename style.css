@@ -406,11 +406,11 @@ display: fl
     flex-direction: column;
     justify-content: center;
   }
-  .main-img{
-  width:65vw;
+  .mainImg{
+  width:70vw;
   }
   .contactImg{
-    width:65vw;
+    width:70vw;
   }
   .footer{
   flex-direction:column;
