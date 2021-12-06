@@ -415,6 +415,10 @@ display: fl
   .footer{
   flex-direction:column;
   }
+  feature_container{
+    flex-direction:column;
+  }
+    
   
   
 
