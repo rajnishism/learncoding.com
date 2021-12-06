@@ -415,10 +415,12 @@ display: fl
   .footer{
   flex-direction:column;
   }
-  feature_container{
+  .feature_container{
     flex-direction:column;
   }
-    
+  .bigHeading{
+  font-size:42px;
+  }
   
   
 
