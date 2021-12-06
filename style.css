@@ -402,6 +402,7 @@ display: fl
     align-items: center;
     justify-content: space-around;
     text-align: center;
+    flex-direction:column-reverse;
   }
   .contactbox{
     flex-direction: column;
@@ -413,6 +414,7 @@ display: fl
   }
   .contactImg{
     width:70vw;
+    justify-content: center;
   }
   .footer{
   flex-direction:column;
@@ -421,9 +423,9 @@ display: fl
     flex-direction:column-reverse;
   }
   .bigHeading{
-  font-size:42px;
+  font-size:38px;
   line-height: 40px;
-  margin-top:70;
+  margin-top:70px;
   }
   .CourseList{
     margin: 15px;
@@ -437,5 +439,7 @@ display: fl
   .contactbox{
     padding: 20px 15px 80px 15px;
   }
-
+  .feature_item{
+    width: 100%;
+  }
 }
