@@ -315,7 +315,9 @@ flex-direction: row;
 }
 .Playlist_cover{
   margin: 0 100px ;
-display: fl
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 
 }
 .Playlist_item{
@@ -482,8 +484,8 @@ display: fl
     flex-direction: column;
     justify-content: center;
     align-content: center;
-}
   }
+}
   .Playlist_item{
     width: 90vw;
   }
