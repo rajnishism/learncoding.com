@@ -460,4 +460,7 @@ display: fl
   .courseitem{
     padding:  20px;
   }
+  .gridscourse{
+    justify-content: center;
+  }
 }
