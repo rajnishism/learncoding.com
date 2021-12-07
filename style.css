@@ -411,7 +411,7 @@ display: fl
     padding: 20px 15px;
   }
   .mainImg{
-  width:70vw;
+  width:85vw;
   }
   .contactImg{
     width:70vw;
@@ -425,7 +425,7 @@ display: fl
     flex-direction:column-reverse;
   }
   .bigHeading{
-  font-size:38px;
+  font-size:32px;
   line-height: 40px;
   margin-top:70px;
   }
@@ -449,7 +449,7 @@ display: fl
     margin-top:50px;
   }
   .smallHeading{
-    font-size: 18px;
+    font-size: 16px;
   }
   .logo{
     margin-left:15px;
