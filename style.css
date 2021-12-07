@@ -389,6 +389,11 @@ display: fl
     margin: 0; /* To remove default bottom margin */
     padding: 0; /* To remove default left padding */
 }
+
+.bookitem a{
+  color:#96BB7C;
+  margin-left:  30px;
+}
 @media (max-width:1105px) {
   .navigation{
     display: none;
