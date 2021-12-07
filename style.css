@@ -464,4 +464,7 @@ display: fl
   .gridscourse{
     justify-content: center;
   }
+  .PageName{
+    text-align: center;
+  }
 }
