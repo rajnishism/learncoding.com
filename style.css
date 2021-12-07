@@ -457,4 +457,7 @@ display: fl
   .contactimgbox{
     margin: auto;
   }
+  .courseitem{
+    padding:  20px;
+  }
 }
