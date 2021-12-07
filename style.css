@@ -170,7 +170,8 @@ margin-top:50px;
   margin-left:30px;
 }
 .courseimg{
-  width: 200px;
+  height:  200px;
+  text-align:center;
 
 
   justify-content: center;
@@ -348,7 +349,7 @@ display: fl
 
 }
 .CourseList img{
-  width: 100%;
+  height:  100%;
 }
 .material_cover{
   display: flex;
@@ -467,7 +468,7 @@ display: fl
     justify-content: center;
   }
   .PageName{
-    
+
     text-align: center;
   }
 }
