@@ -357,7 +357,7 @@ flex-direction: row;
   display: flex;
   align-items: baseline;
   margin:  100px 100px;
-  background-image:url(images/decide.jpg);
+
   flex-wrap: wrap;
   justify-content: center;
 
@@ -395,6 +395,14 @@ flex-direction: row;
 .bookitem a{
   color:#96BB7C;
   margin-left:  30px;
+}
+
+.roadmapItem {
+width: 350px;
+}
+
+.roadmapImg{
+  
 }
 @media (max-width:1105px) {
   .navigation{
