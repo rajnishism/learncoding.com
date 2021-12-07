@@ -476,4 +476,10 @@ display: fl
 
     text-align: center;
   }
+  .Playlist_cover{
+    margin: 0 15px;
+  }
+  .Playlist_item{
+    width: 90vw;
+  }
 }
