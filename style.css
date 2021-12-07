@@ -235,6 +235,7 @@ font-weight: 500;
 }
 .CourseList{
   margin: 100px;
+  padding: 20px;
 }
 
 .btn{
@@ -429,9 +430,7 @@ display: fl
   line-height: 40px;
   margin-top:70px;
   }
-  .CourseList{
-    margin: 15px;
-  }
+
   .feature_section{
     padding:  30px 15px;
   }
