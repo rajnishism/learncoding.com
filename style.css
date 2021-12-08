@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
 .mainImg{
   width: 580px;
 }
@@ -200,6 +203,7 @@ margin-top:50px;
 
 .logo_footer{
   display: block;
+   margin: 0;
 }
 .Follow{
   display: block;
@@ -326,7 +330,7 @@ flex-direction: row;
   justify-content: space-between;
   width: 368px;
   display: inline-block;
-  margin:5px;
+  margin:15px;
 
 }
 .thumbnail{
@@ -336,8 +340,8 @@ flex-direction: row;
 }
 .text_data{
   background-color: #fff;
-  font-family: serif;
-  margin-top: 8px;
+  font-family: open sans;
+  margin-top: 12px;
 }
 .descriptionOfSubject{
   font-family:   arial  ;
@@ -351,7 +355,8 @@ flex-direction: row;
 
 }
 .CourseList img{
-  height:  100%;
+  width:  100%;
+  vertical-align: middle;
 }
 .material_cover{
   display: flex;
@@ -401,9 +406,15 @@ flex-direction: row;
 width: 350px;
 }
 
-.roadmapImg{
-  
+.bookName{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: open sans;
 }
+
+
+
+
 @media (max-width:1105px) {
   .navigation{
     display: none;
@@ -470,9 +481,7 @@ width: 350px;
   .smallHeading{
     font-size: 16px;
   }
-  .logo{
-    margin-left:15px;
-  }
+
   .contactimgbox{
     margin: auto;
   }
@@ -493,8 +502,9 @@ width: 350px;
     justify-content: center;
     align-content: center;
   }
+
 }
   .Playlist_item{
-    width: 90vw;
+
   }
 }
