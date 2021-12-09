@@ -173,7 +173,7 @@ margin-top:50px;
   margin-left:30px;
 }
 .courseimg{
-  
+
   text-align:center;
 
 
@@ -281,6 +281,7 @@ flex-direction: row;
   background-color: white;
   padding: 35px 40px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 10px 0;
 
 }
 
