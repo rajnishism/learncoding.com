@@ -422,8 +422,17 @@ width: 350px;
   }
   .logo{
     text-align: center;
+    margin: 15px;
 
+  }.footer .logo{
+
+    margin: 0;
   }
+  .footer{
+    align-items: center;
+    text-align: center
+  }
+
   .navbar{
     justify-content: center;
   }
@@ -444,8 +453,8 @@ width: 350px;
   width:85vw;
   }
   .contactImg{
-    width:70vw;
-    justify-content:
+
+    display:none;
 
   }
   .footer{
